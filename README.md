@@ -20,7 +20,9 @@ The Global Terrorism Database(GTD) is an integrated data set about all of Terror
 Data preparation:
 
 First step : 
+
 As GTD was include whole terrorist attacks in all over the world we should customized GTD for our research. We started preprocessing data with insert some filtered which listed bellow:
+
 1-	country=Afghanistan
 
 2-	city=Kabul
@@ -39,6 +41,7 @@ As GTD was include whole terrorist attacks in all over the world we should custo
  
 
 Second step:
+
 In this step we should find relevant and reference news which shared this event with details .for this mean we had some important attributes .summary and  three citation column was very helpful to linked us to relevant news website. the key words of event mentioned in summary of event in GTD, so we used this key words such as date of event, place of event and etc for access more news.
 After access to this news we scraped its contents as a CSV dataset and at the end we could scraped about 280 relevant news to 60 extracted GTD events.
 Our final scrapped news was include title of news, publication date ,news reference ,content of news and news link.
