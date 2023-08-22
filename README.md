@@ -13,7 +13,7 @@ The Global Terrorism Database(GTD) is an integrated data set about all of Terror
 
 ![gtd2](https://github.com/minaajafari/TerrorismDatabaseFactDiscovery/assets/117638768/2a3b53b2-7bd7-4d83-bfc5-24222c983174)
 
-for access to GTD
+for access to GTD :
 https://www.start.umd.edu/gtd/contact/download
 
 
