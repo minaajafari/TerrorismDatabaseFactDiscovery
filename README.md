@@ -10,6 +10,13 @@ If we have a review to the terrorist attacks news in Afghanistan we will get thi
 
 The Global Terrorism Database(GTD) is an integrated data set about all of Terrorist events that have occured in the world with more than 120 attributes for each event from 1970 till mid 2021.we used this reliable data set as an scale for our data gathering process .so as we need all of events which target was Afghan civilans ,after preprocessing GTD dataset and extract desire datasets, we start data gathering process and our scale was the attacks which listed in GTD .there are tree citation for each event and we use these citation for find the news about that event .for find more relevant news we use keywords in the summery field of each event for search more news . we scrapped the content of these news which was contain :header ,date ,reference and the content of news by Python .At the end for 51 events which occurred in Kabul ,we scrapped about 280 news which is about 6 news for each event on average.
 
+
+![gtd2](https://github.com/minaajafari/TerrorismDatabaseFactDiscovery/assets/117638768/2a3b53b2-7bd7-4d83-bfc5-24222c983174)
+
+for access to GTD
+https://www.start.umd.edu/gtd/contact/download
+
+
 Material & Method:
 
 Data preparation:process of data gathering devided in two steps.
