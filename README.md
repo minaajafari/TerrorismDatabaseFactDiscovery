@@ -33,7 +33,7 @@ As GTD was include whole terrorist attacks in all over the world we should custo
 
 5-	attacks type should not be Hostage taking(kidnapping) and Assassination.
 
-6-	Attacks target nationality should not be Afghan .
+6-	Attacks target nationality should be Afghan .
 
 7-	Number of people who killed in this attacks should be more than two people .
 
