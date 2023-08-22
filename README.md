@@ -22,13 +22,21 @@ Data preparation:
 First step : 
 As GTD was include whole terrorist attacks in all over the world we should customized GTD for our research. We started preprocessing data with insert some filtered which listed bellow:
 1-	country=Afghanistan
+
 2-	city=Kabul
+
 3-	all attack should be in last decade (between 2011 until 2021)
+
 4-	attacks target should not be Military ,Police , Airport & Aircraft ,Government ,Tourist, Journalists & Media .
+
 5-	attacks type should not be Hostage taking(kidnapping) and Assassination.
+
 6-	Attacks target nationality should not be Afghan .
+
 7-	Number of people who killed in this attacks should be more than two people .
+
  At the end we extracted 60 event which was belong to Afghanistan ,Kabul ,2011-2021 and target was just Afghan civilian.
+ 
 
 Second step:
 In this step we should find relevant and reference news which shared this event with details .for this mean we had some important attributes .summary and  three citation column was very helpful to linked us to relevant news website. the key words of event mentioned in summary of event in GTD, so we used this key words such as date of event, place of event and etc for access more news.
